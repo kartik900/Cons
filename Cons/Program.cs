@@ -10,6 +10,8 @@ namespace Cons
     {
         static void Main(string[] args)
         {
+            Console.Writeline("wqwrswhh");
+            Console.Read();
         }
     }
 }
